@@ -1,0 +1,26 @@
+.productmodalmain{
+    border: solid 1px black;
+    height: 650px;
+    width: 400px;
+    background: rgb(165, 165, 234);
+    border-radius: 3px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding-left: 30px;
+    
+    position: absolute;
+}
+.brandmodalbutton{
+   margin-left: 370px;
+   background-color: rgb(226, 8, 8);
+   height: 30px;
+   width: 30px;
+}
+.productback{
+    height: 90vh;
+    position:fixed;
+    width: 80vw;
+   background: rgb(241, 232, 232);
+   z-index: 0;
+   backdrop-filter: blur(10px);
+}

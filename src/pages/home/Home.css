@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    border-radius: 10px;
+    border: solid 3px grey;
+    /* background-color: green; */
+}
+.container1{
+    flex: 6;
+}

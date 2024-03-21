@@ -1,0 +1,61 @@
+.brandmodalmain{
+    border: solid 1px black;
+    height: 450px;
+    width: 400px;
+    background: rgb(165, 165, 234);
+    border-radius: 3px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding-left: 30px;
+    
+    position: absolute;
+}
+.brandmodalbutton{
+   margin-left: 370px;
+   background-color: rgb(226, 8, 8);
+   height: 30px;
+   width: 30px;
+}
+.brndback{
+    height: 70vh;
+    position:fixed;
+    width: 80vw;
+   background: rgb(241, 232, 232);
+   z-index: 0;
+   backdrop-filter: blur(10px);
+}
+.updatebtn{
+    background: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border: solid 2px white;
+}
+input{
+    width: 180px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 2px black;
+}
+select{
+    width: 180px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 2px black;
+}
+.manage{
+    padding-left: 10px;
+}
+label{
+    display: table-cell;
+    text-align: right;
+    font-weight: bolder;
+}
+input {
+  display: table-cell;
+  color:green
+}
+
+

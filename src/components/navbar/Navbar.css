@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 59px;
+    background-color: rgb(23, 22, 22); 
+
+}
+.time{
+    color: white;
+    padding-left: 1100px;
+}
